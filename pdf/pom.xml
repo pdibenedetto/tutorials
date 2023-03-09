@@ -116,7 +116,7 @@
         <open-html-pdfbox.version>1.0.6</open-html-pdfbox.version>
         <open-html-pdf-core.version>1.0.6</open-html-pdf-core.version>
         <flying-saucer-pdf-openpdf.version>9.1.22</flying-saucer-pdf-openpdf.version>
-        <jsoup.version>1.14.2</jsoup.version>
+        <jsoup.version>1.15.3</jsoup.version>
     </properties>
 
 </project>
